@@ -1,5 +1,6 @@
 # football-data
-海外サッカーのデータを表示するサイト
+海外サッカーのデータをAPIで表示するサイト
+
 
 ## 参考サイト
 - 無料APIとjQueryで海外サッカーの情報を自動取得する(https://www.footballtickets-by-gakuseimiler.com/entry/football-data-api)
